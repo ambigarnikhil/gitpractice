@@ -1,4 +1,8 @@
 hi nikhil
 Added new content
+<<<<<<< HEAD
 hi world
 modify
+=======
+hello world 
+>>>>>>> BR1
